@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+}
+
+.alignment {
+    width: 70%;
+    margin: 0px auto;
+}
+
+hr {
+    margin: 0px;
+}
+
+.post {
+    background-color: #fffafa;
+    padding: 20px 50px;
+}
+
+.post .date {
+    color: #008080;
+    font-family: 'Roboto', sans-serif;
+}
+
+.post .blog-title {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.post .post-content {
+    font-family: 'Roboto', sans-serif;
+}
